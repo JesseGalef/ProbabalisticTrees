@@ -1,4 +1,17 @@
 
+Code written in Python 2.7
+
+Packages used in the code:
+	Keras
+	Tensorflow
+	Numpy
+	Pandas
+	Matplotlib
+	Seaborn
+	BioPython
+
+Files:
+
 jbg2160_FinalWriteup.doc - template-formatted writeup of the project
 
 NeuralNetParsimonyTrees.ipyn - JupyterNotebook containing the code
